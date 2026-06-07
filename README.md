@@ -113,15 +113,15 @@ React • Node.js • MongoDB
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ambasthashreya08&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ambasthashreya08-commits&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasthashreya08&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasthashreya08-commits&layout=compact&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasthashreya08&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasthashreya08-commits&theme=tokyonight"/>
 
 </div>
 
