@@ -6,7 +6,11 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ambasthashreya08-commits&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ambasthashreya08-commits&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ambasthashreya08-commits&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ambasthashreya08-commits&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
