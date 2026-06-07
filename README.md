@@ -10,15 +10,32 @@
 
 ---
 
-## 🌸 About Me
+# # About Me
 
-💻 Passionate about Java & Spring Boot Development
+I am a Computer Science student with a strong interest in backend engineering, full-stack development, and scalable software systems.
 
-🚀 Building real-world full-stack applications
+My focus is on building practical applications using Java, Spring Boot, and modern web technologies while continuously expanding my knowledge of system design, cloud technologies, and software architecture.
 
-📚 Exploring System Design & Backend Engineering
+I enjoy transforming ideas into functional products, solving real-world problems through code, and learning through hands-on project development.
 
-🎯 Goal: Become a Software Engineer at a top product company
+public class Shreya {
+
+    String role =
+        "CS Student";
+
+    String specialization =
+        "Java & Full Stack";
+
+    String focus =
+        "Spring Boot";
+
+    String learning =
+        "System Design, Cloud";
+
+    String goal =
+        "Software Engineer";
+
+}
 
 ---
 
