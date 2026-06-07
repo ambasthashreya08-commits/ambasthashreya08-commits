@@ -57,21 +57,7 @@ Track and visualize spending patterns.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasthashreya08&layout=compact&theme=tokyonight"/>
 </p>
 
----
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasthashreya08&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/ambasthashreya08/ambasthashreya08/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
 
