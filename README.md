@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ambasthashreya08&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ambasthashreya08-commits&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
