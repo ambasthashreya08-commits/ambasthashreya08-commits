@@ -1,36 +1,82 @@
-# Hi 👋 I'm Shreya Ambastha
+<div align="center">
 
-### Java Developer | Spring Boot Developer | Full Stack Enthusiast
+# ✨ Shreya Ambastha ✨
 
-🚀 Passionate about building scalable applications and solving real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Developer+☕;Spring+Boot+Enthusiast+🚀;Building+Projects+That+Solve+Problems+💡;Always+Learning+Something+New+🌱"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=ambasthashreya08&theme=radical&no-frame=true&row=1&column=7"/>
 
-## 🛠 Tech Stack
-
-Java • Spring Boot • MySQL • HTML • CSS • JavaScript • Git • GitHub
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🌸 About Me
 
-### ATS Resume Analyzer
-AI-powered resume analysis and ATS score evaluation.
+💻 Passionate about Java & Spring Boot Development
 
-### QR Code Generator & Scanner
+🚀 Building real-world full-stack applications
+
+📚 Exploring System Design & Backend Engineering
+
+🎯 Goal: Become a Software Engineer at a top product company
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,vscode"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 ATS Resume Analyzer
+
+AI-powered resume analysis and ATS scoring.
+
+### 🔗 URL Shortener
+
+Fast URL shortening with redirection support.
+
+### 📱 QR Code Generator & Scanner
+
 Generate and scan QR codes instantly.
 
-### URL Shortener
-Create shortened URLs with efficient redirection.
+### 💰 Expense Tracker
 
-### Expense Tracker
-Track expenses with insightful visualizations.
+Track and visualize spending patterns.
 
 ---
 
-## 🌱 Currently Learning
+## 📈 GitHub Analytics
 
-- Advanced Spring Boot
-- System Design
-- Data Structures & Algorithms
-- Cloud Fundamentals
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambasthashreya08&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambasthashreya08&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ambasthashreya08&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/ambasthashreya08/ambasthashreya08/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+"Code. Learn. Build. Repeat."
+
+</div>
